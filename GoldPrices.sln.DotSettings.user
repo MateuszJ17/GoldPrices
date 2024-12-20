@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c38314c0_002D4afa_002D44e7_002Daf67_002D205d47377a81/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_HaveErrors_When_StartDate_IsLater_Than_EndDate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::27864DD3-1098-445D-B8F6-604FDAA45672::net9.0::GoldPrices.Api.Tests.UnitTests.GoldPrices.Validators.CreateGoldPriceValidatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::27864DD3-1098-445D-B8F6-604FDAA45672::net9.0::GoldPrices.Api.Tests.UnitTests.GoldPrices.Validators.GetGoldPricesValidatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::27864DD3-1098-445D-B8F6-604FDAA45672::net9.0::GoldPrices.Api.Tests.UnitTests.GoldPrices.Validators.GetGoldPriceValidatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

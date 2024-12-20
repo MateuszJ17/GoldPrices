@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldPrices.Api", "GoldPrices.Api\GoldPrices.Api.csproj", "{62138C71-D7EC-4D3C-8C84-CCC215A8BA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldPrices.Api.Tests", "GoldPrices.Api.Tests\GoldPrices.Api.Tests.csproj", "{27864DD3-1098-445D-B8F6-604FDAA45672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62138C71-D7EC-4D3C-8C84-CCC215A8BA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62138C71-D7EC-4D3C-8C84-CCC215A8BA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62138C71-D7EC-4D3C-8C84-CCC215A8BA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62138C71-D7EC-4D3C-8C84-CCC215A8BA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27864DD3-1098-445D-B8F6-604FDAA45672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27864DD3-1098-445D-B8F6-604FDAA45672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27864DD3-1098-445D-B8F6-604FDAA45672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27864DD3-1098-445D-B8F6-604FDAA45672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
